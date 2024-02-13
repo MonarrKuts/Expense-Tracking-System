@@ -1,0 +1,87 @@
+expenses:     #expense model databse
+- model: expenses.Expense
+  pk: 1
+  fields:
+    description: Groceries
+    amount: 0
+- model: expenses.Expense
+  pk: 2
+  fields:
+    description: Gas
+    amount: 0
+- model: expenses.Expense
+  pk: 3
+  fields:
+    description: Rent
+    amount: 0
+- model: expenses.Expense
+  pk: 4
+  fields:
+    description: Fare
+    amount: 0
+- model: expenses.Expense
+  pk: 5
+  fields:
+    description: Fuel
+    amount: 0
+- model: expenses.Expense
+  pk: 6
+  fields:
+    description: Miscellaneous
+    amount: 0
+- model: expenses.Expense
+  pk: 7
+  fields:
+    description: Savings
+    amount: 0
+- model: expenses.Expense
+  pk: 8
+  fields:
+    description: Shopping
+    amount: 0
+- model: expenses.Expense
+  pk: 9
+  fields:
+    description: Entertainment
+    amount: 0
+- model: expenses.Expense
+  pk: 10
+  fields:
+    description: Toiletries
+    amount: 0
+- model: expenses.Expense
+  pk: 11
+  fields:
+    description: Beauty Products
+    amount: 0
+- model: expenses.Expense
+  pk: 12
+  fields:
+    description: Healthcare
+    amount: 0
+- model: expenses.Expense
+  pk: 13
+  fields:
+    description: Debt
+    amount: 0
+- model: expenses.Expense
+  pk: 14
+  fields:
+    description: Insurance
+    amount: 0
+- model: expenses.Expense
+  pk: 15
+  fields:
+    description: Electricity
+    amount: 0
+- model: expenses.Expense
+  pk: 16
+  fields:
+    description: Water
+    amount: 0
+- model: expenses.Expense
+  pk: 17
+  fields:
+    description: Education
+    amount: 0
+
